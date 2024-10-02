@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469964694943",
+    "project_id": "gia-pha-3a17e",
+    "storage_bucket": "gia-pha-3a17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469964694943:android:345944c4deb4bf0e7209aa",
+        "android_client_info": {
+          "package_name": "com.example.application_gia_pha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzG85CFwsk96ytPtBxjoVBHTrdicsa01I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
